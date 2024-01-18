@@ -1,7 +1,7 @@
 applications:
-- api_domain: example.com
-  application_name: ExampleApp
+- api_domain: uat.warm-glass.co.uk
+  application_name: WG-UAT
   authentication_mode: non-authenticated
   exclude_paths: []
-  target_url: https://example.com
+  target_url: https://uat.warm-glass.co.uk
   type: web
